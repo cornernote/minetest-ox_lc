@@ -15,8 +15,8 @@ Create a game of Naughts and Crosses
 
 - 100x LuaController (mesecons_luacontroller:luacontroller)
 - 19x Button (mesecons_button:button_off)
-- 81x Lightstone (???)
-- 150x (approx) Digilines Wire (digilines:wire_std)
+- 81x Lightstone (mesecons_lightstone:lightstone_blue_off)
+- 200x (approx) Digilines Wire (digilines:wire_std)
 
 
 ## How-To
@@ -32,7 +32,7 @@ Create a game of Naughts and Crosses
 ## Resources
 
 - **[GitHub Project](https://github.com/cornernote/minetest-ox_lc)**
-- **[Forum Page](https://forum.minetest.net/viewtopic.php?t=???)**
+- **[Forum Page](https://forum.minetest.net/viewtopic.php?t=10759)**
 
 
 ## Support
