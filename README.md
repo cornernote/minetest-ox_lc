@@ -29,6 +29,12 @@ Create a game of Naughts and Crosses
 - Connect everything with Digilines Wire
 
 
+## To-Do
+
+- Prevent player from changing already selected position
+- Winner detection
+
+
 ## Resources
 
 - **[GitHub Project](https://github.com/cornernote/minetest-ox_lc)**
